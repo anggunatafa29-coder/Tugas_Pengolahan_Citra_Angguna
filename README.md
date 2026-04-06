@@ -1,1 +1,1 @@
-# Jobsheet01-Angguna
+# Tugas Pengolahan Citra-Angguna
